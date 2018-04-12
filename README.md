@@ -1,8 +1,9 @@
 # Bubblescript shell
 
-Experimental shell interface
-using [Bubblescript](https://github.com/botsquad/bubblescript).  For
-demonstration purposes only.
+Proof-of-concept shell interface using Bubblescript. demonstration purposes only.
+
+> Note: bubblescript is not yet available as open source, so most
+> likely this code does not work for you, yet.
 
 ## Installation
 
